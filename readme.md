@@ -7,3 +7,7 @@ sdgsd
 sdfds
 fdsfsf
 ![img](./hardware/scr1.jpg)
+
+```cpp
+tu bedzie kod 
+```
