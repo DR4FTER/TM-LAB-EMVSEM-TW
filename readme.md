@@ -7,10 +7,13 @@ Moim projektem jest Mixer RGB. Jego działanie opiera się na potencjometrze - n
 # Płytka w programie Eagle 
 Board bez poligonów masy:
 ![img](./hardware/scr1.jpg)
+
 Board z poligonami po obu stronach:
 ![img](./hardware/scr3.jpg)
+
 Wygląd od strony TOP:
 ![img](./hardware/scr2.jpg)
+
 Wygląd od strony BOTTOM:
 ![img](./hardware/scr4.jpg)
 # Kod programu
