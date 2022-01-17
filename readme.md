@@ -5,9 +5,13 @@ Moim projektem jest Mixer RGB. Jego działanie opiera się na potencjometrze - n
 # Schemat w programie Eagle
 ![img](./hardware/scr5.jpg)
 # Płytka w programie Eagle 
+Board bez poligonów masy:
 ![img](./hardware/scr1.jpg)
-![img](./hardware/scr2.jpg)
+Board z poligonami po obu stronach:
 ![img](./hardware/scr3.jpg)
+Wygląd od strony TOP:
+![img](./hardware/scr2.jpg)
+Wygląd od strony BOTTOM:
 ![img](./hardware/scr4.jpg)
 # Kod programu
 ```cpp
