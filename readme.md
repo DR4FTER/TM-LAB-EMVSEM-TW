@@ -1,1 +1,9 @@
-123
+# Projekt ble ble 
+fdgef
+fdgdf
+dfgdf
+# Projekt cz. d..ds
+sdgsd
+sdfds
+fdsfsf
+![img](./hardware/scr1.jpg)
